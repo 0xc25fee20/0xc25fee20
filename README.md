@@ -5,24 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=Profile%20views&color=0080ff&&style=flat" alt="0xc25fee20" />
 <a href="https://twitter.com/0xfee20" target="_Blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&style=social" alt="0xfee20" /></a></p>
 
-<p align="left"> <a href="https://twitter.com/0xfee20" target="_Blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&style=social" alt="0xfee20" /></a> </p>
+<br />
+
 - 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
 **GitHub Profile Stats 💻**
 
 | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
-**About me**
-
-- 💼 <em>Working remotely</em>
-
-- 👬 <em>Discussing anytime</em>
-
-- 📝 <em>Writing Solidity and building on Ethereum</em>
-
-- 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
