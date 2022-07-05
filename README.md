@@ -15,7 +15,7 @@ I'm a self-taught passionate Solidity developer from China
 
 **About me**
 
-- 💼 Working remote
+- 💼 Working remotely
 
 - 📈 Discussing anytime
 
