@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, this is 0xc25fee20</h1>
 
-<em><b>I'm a self-taught passionate Solidity developer from China</b></em>💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
+<em><b>I'm a self-taught passionate Solidity developer from China</b></em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=Profile%20views&color=0080ff&&style=flat" alt="0xc25fee20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=Profile%20views&color=0080ff&&style=flat" alt="0xc25fee20" />
+<a href="https://twitter.com/0xfee20" target="_Blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&style=social" alt="0xfee20" /></a></p>
 
 <p align="left"> <a href="https://twitter.com/0xfee20" target="_Blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&style=social" alt="0xfee20" /></a> </p>
-
+- 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
 **GitHub Profile Stats 💻**
 
