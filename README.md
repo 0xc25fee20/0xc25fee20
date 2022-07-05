@@ -24,7 +24,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
 <code><a href="https://www.mathworks.com/" title="matlab"><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></code>
 
-<br />
 
 <details>
 <summary>Activity Graph 📈</summary>
