@@ -19,7 +19,7 @@ I'm a self-taught passionate Solidity developer from China
 
 - 👬 Discussing anytime
 
-- ❤️ Writing Solidity and building on Ethereum
+- 📝 Writing Solidity and building on Ethereum
 
 - 💬 Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)
 
