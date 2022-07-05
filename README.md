@@ -6,6 +6,13 @@ I'm a self-taught passionate Solidity developer from China
 
 <p align="left"> <a href="https://twitter.com/0xfee20" target="blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&style=social" alt="0xfee20" /></a> </p>
 
+
+**GitHub Profile Stats 💻**
+
+| <a href="https://github.com/0xc25fee20/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 **About me**
 
 - 💼 Working remote
@@ -28,10 +35,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <code><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
 
-**GitHub Profile Stats 💻**
-
-| <a href="https://github.com/0xc25fee20/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 **Top Repositories**
 
