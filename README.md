@@ -17,7 +17,7 @@ I'm a self-taught passionate Solidity developer from China
 
 - 💼 Working remotely
 
-- 📈 Discussing anytime
+- 👬 Discussing anytime
 
 - ❤️ Writing Solidity and building on Ethereum
 
