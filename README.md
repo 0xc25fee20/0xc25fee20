@@ -15,13 +15,13 @@
 
 **About me**
 
-- 💼 Working remotely
+- 💼 <em>Working remotely</em>
 
-- 👬 Discussing anytime
+- 👬 <em>Discussing anytime</em>
 
-- 📝 Writing Solidity and building on Ethereum
+- 📝 <em>Writing Solidity and building on Ethereum</em>
 
-- 💬 Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)
+- 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
 <code><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></code>
