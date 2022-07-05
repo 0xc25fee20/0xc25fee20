@@ -47,5 +47,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code
 
 <details>
   <summary>Activity Graph 📈</summary>
-<a href="https://github.com/0xc25fee20/github-readme-activity-graph"><img alt="0xc25fee20's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
+<a href="https://github.com/0xc25fee20"><img alt="0xc25fee20's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
 </details>
