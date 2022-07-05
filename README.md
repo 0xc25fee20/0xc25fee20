@@ -23,8 +23,8 @@
 
 - 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
-<code><img height="20" alt="solidity" 
-src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></code>
+<code><a href="https://soliditylang.org/" target="_Blank"><img height="20" alt="solidity" 
+src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
 <code><img height="20" alt="VSCode" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
