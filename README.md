@@ -26,17 +26,9 @@ src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
 <code><a href="https://www.mathworks.com/" title="matlab"><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></code>
 
-
-**Top Repositories**
-
-<a href="https://github.com/0xc25fee20/0xc25fee20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0xc25fee20&repo=0xc25fee20&theme=buefy" />
-</a>
-
-<br />
 <br />
 
 <details>
-  <summary>Activity Graph 📈</summary>
+<summary>Activity Graph 📈</summary>
 <a href="https://github.com/0xc25fee20"><img alt="0xc25fee20's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
 </details>
