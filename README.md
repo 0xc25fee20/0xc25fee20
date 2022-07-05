@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, this is 0xc25fee20</h1>
-
 <em><b>I'm a self-taught passionate Solidity developer from China</b></em>
 
 - 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
