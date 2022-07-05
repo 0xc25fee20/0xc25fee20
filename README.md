@@ -9,7 +9,7 @@ I'm a self-taught passionate Solidity developer from China
 
 **GitHub Profile Stats 💻**
 
-| <a href="https://github.com/0xc25fee20/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
