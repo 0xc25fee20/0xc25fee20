@@ -24,17 +24,17 @@
 - 💬 <em>Ask me about anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
-src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></img></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="20" alt="VSCode" 
+src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" title="vscode"><img height="20" alt="VSCode" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<code><a href="https://www.javascript.com/"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href="https://reactjs.org/"><img height="20" alt="react" 
+<code><a href="https://www.javascript.com/" title="javascript"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://reactjs.org/" title="react"><img height="20" alt="react" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
-<code><a href="https://nodejs.org/"><img height="20" alt="nodejs" 
+<code><a href="https://nodejs.org/" title="nodejs"><img height="20" alt="nodejs" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
-<code><a href="https://www.python.org/"><img height="20" alt="python" 
+<code><a href="https://www.python.org/" title="python"><img height="20" alt="python" 
 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
-<code><a href="https://www.mathworks.com/"><img height="20" alt="matlab" 
+<code><a href="https://www.mathworks.com/" title="matlab"><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></code>
 
 
