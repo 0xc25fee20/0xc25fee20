@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, this is 0xc25fee20</h1>
 
-I'm a self-taught passionate Solidity developer from China
+<em><b>I'm a self-taught passionate Solidity developer from China</b></em>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=Profile%20views&color=0080ff&&style=flat" alt="0xc25fee20" /> </p>
 
@@ -25,6 +25,8 @@ I'm a self-taught passionate Solidity developer from China
 
 <code><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></code>
+<code><img height="20" alt="VSCode" 
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
