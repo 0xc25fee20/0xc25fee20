@@ -12,15 +12,21 @@
 
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
+
 <code><a href="https://code.visualstudio.com/" title="vscode"><img height="20" alt="VSCode" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></a></code>
-<code><a href="https://www.javascript.com/" title="javascript"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></a></code>
+
+<code><a href="https://www.typescriptlang.org/" title="typescript"><img height="20" alt="typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></a></code>
+
 <code><a href="https://reactjs.org/" title="react"><img height="20" alt="react" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code>
+src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></a></code>
+
 <code><a href="https://nodejs.org/" title="nodejs"><img height="20" alt="nodejs" 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code>
+src="https://upload.wikimedia.org/wikipedia/commons/7/70/Font_Awesome_5_brands_node-js.svg"></a></code>
+
 <code><a href="https://www.python.org/" title="python"><img height="20" alt="python" 
 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
+
 <code><a href="https://www.mathworks.com/" title="matlab"><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></code>
 
