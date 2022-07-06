@@ -2,7 +2,7 @@
 
 - 💬 <em>Ask me anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=Profile%20views&color=0080ff&&style=flat" alt="0xc25fee20" />&nbsp&nbsp&nbsp&nbsp
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=visitors&color=0080ff&&style=flat" alt="0xc25fee20" />&nbsp&nbsp&nbsp&nbsp
 <a href="https://twitter.com/0xfee20" target="_Blank"><img src="https://img.shields.io/twitter/follow/0xfee20?label=Follow&social" alt="0xfee20" /></a></p>
 
 **GitHub Profile Stats 💻**
