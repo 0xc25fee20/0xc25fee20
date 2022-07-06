@@ -7,7 +7,7 @@
 
 **GitHub Profile Stats 💻**
 
-| <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="0xc25fee20's github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="His github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
@@ -27,5 +27,5 @@ src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></
 
 <details>
 <summary>Activity Graph 📈</summary>
-<a href="https://github.com/0xc25fee20"><img alt="0xc25fee20's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
+<a href="https://github.com/0xc25fee20"><img alt="His Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
 </details>
