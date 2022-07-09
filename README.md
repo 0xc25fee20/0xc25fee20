@@ -10,6 +10,8 @@
 | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="His github stats" /></a> | <a href="https://github.com/0xc25fee20"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=0xc25fee20&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xc25fee20&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=en" />
+
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
 <code><a href="https://code.visualstudio.com/" title="vscode"><img height="20" alt="VSCode" 
