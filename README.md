@@ -1,4 +1,4 @@
-<em><b>I'm a PhD candidate also a self-taught Solidity developer from China</b></em>
+<em><b>I'm a PhD also a self-taught Solidity developer from China</b></em>
 
 - 💬 <em>Ask me anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
