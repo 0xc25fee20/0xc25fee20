@@ -1,5 +1,5 @@
 <em><b>I am interested in Solidity, EVM and Smart Contract Security.</b></em>
-![Metrics](https://metrics.lecoq.io/0xc25fee20?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/0xc25fee20?template=classic&base.activity=1&base.community=1&base.metadata=1&config.timezone=Asia%2FShanghai)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xc25fee20&label=visitors&color=0080ff&&style=flat" alt="0xc25fee20" /></p>
 <code><a href="https://soliditylang.org/" target="_blank" title="solidity"><img height="20" alt="solidity" 
 src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg"></a></code>
