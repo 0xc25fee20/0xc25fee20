@@ -1,4 +1,5 @@
 <em><b>I am interested in Solidity, EVM and Smart Contract Security.</b></em>
+![Metrics](https://metrics.lecoq.io/JunchuanYu?template=classic&base.activity=0&base.community=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 
 - 💬 <em>Ask me anything [here](https://github.com/0xc25fee20/0xc25fee20/issues)</em>
 
