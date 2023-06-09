@@ -23,9 +23,3 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/70/Font_Awesome_5_brands_n
 src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></a></code>
 <code><a href="https://www.mathworks.com/" title="matlab"><img height="20" alt="matlab" 
 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></a></code>
-
-
-<details>
-<summary>Activity Graph 📈</summary>
-<a href="https://github.com/0xc25fee20"><img alt="His Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=0xc25fee20&bg_color=fff&color=000&line=cc66ff&point=000&hide_border=true" /></a>
-</details>
